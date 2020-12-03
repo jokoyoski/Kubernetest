@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{ABABFF0D-9235-43A6-8993-B034142345D6}|Kubernetestest">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kubernetestest/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="Kubernetestest/Startup.cs" Line="59" Column="16" />
+      <File FileName="Kubernetestest/appsettings.json" Line="14" Column="4" />
+      <File FileName="Kubernetestest/Joko.cs" />
+      <File FileName="Kubernetestest/Controllers/WeatherForecastController.cs" Line="29" Column="10" />
+      <File FileName="Kubernetestest/Properties/launchSettings.json" />
+      <File FileName="Kubernetestest/Program.cs" />
+      <File FileName="Kubernetestest/Controllers/ValuesController.cs" Line="30" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kubernetestest" expanded="True">
+            <Node name="Kubernetestest" expanded="True">
+              <Node name="Controllers" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Kubernetestest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Projects/Kubernetestest/Kubernetestest/Controllers/WeatherForecastController.cs" relfile="Kubernetestest/Controllers/WeatherForecastController.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
